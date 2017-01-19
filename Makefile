@@ -7,4 +7,4 @@ push:
 	docker push justinclayton/logger-flogger
 
 run:
-	docker run -it --rm justinclayton/logger-flogger
+	docker run -it --rm justinclayton/logger-flogger 2
